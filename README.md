@@ -1,4 +1,4 @@
-# hello-world
-greeting the planet as part of the GitHub tutorial
+# hello-multiverse
+greeting the multiuniverse as part of the GitHub tutorial
 
-about me:     https://www.linkedin.com/in/twop0intfive
+about me:     https://www.linkedin.com/in/chrisevega/
